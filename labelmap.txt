@@ -1,15 +1,3 @@
-Hellula undalis
-Leaf Webber
-ash weevil
-blister beetle
-fruit fly
-fruit sucking moth
-helicoverpa
-leucinodes
-mealy bug
-pieris
-plutella
-root grubs
-schizaphis graminum
-uroleucon compositae
-whitefly
+rat
+bug
+hedgehog
